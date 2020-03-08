@@ -42,6 +42,7 @@ Transforms numeric activity values with appropriate string representation:
 input:
  - `dataset` - is combined train and test sets
  - `measurement_patterns` - is a list of patterns by which we want to filter features
+
 output:
  - dataset with subset of features
  
